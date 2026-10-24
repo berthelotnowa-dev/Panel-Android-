@@ -1,0 +1,9 @@
+{
+  "name": "Panneau de contrôle du téléphone",
+  "short_name": "Panneau",
+  "start_url": "./panel-telephone.html",
+  "display": "standalone",
+  "background_color": "#101414",
+  "theme_color": "#101414",
+  "orientation": "portrait"
+}
